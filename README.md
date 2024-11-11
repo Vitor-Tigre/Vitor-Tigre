@@ -27,11 +27,11 @@
 </div>
 
 <div align="center">
-<img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor-Tigre&theme=darcula&hide_border=true"/>
+  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Tigre&theme=darcula&show_icons=true&hide_border=true&layout=compact"/>
   <br>
 <img alt="my stats" src="https://github-readme-stats.vercel.app/api?username=Vitor-Tigre&theme=darcula&show_icons=true&hide_border=true&count_private=true"/>
   <br>
-<img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Tigre&theme=darcula&show_icons=true&hide_border=true&layout=compact"/>
+  <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor-Tigre&theme=darcula&hide_border=true"/>
 </div>
 
 <h2 align="left">Social Media</h2>
