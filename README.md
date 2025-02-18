@@ -4,16 +4,11 @@
 
 <p align="left">Salesforce Developer at @elera-io<br>Analysis and Systems Development Student at @BandTec</p>
 
-<table>
-  <tr>
-    <td>
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Tigre&theme=darcula&show_icons=true&hide_border=true&layout=compact"/>
-    </td>
-    <td>
-      <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor-Tigre&theme=darcula&hide_border=true"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img width="400px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Tigre&theme=darcula&show_icons=true&hide_border=true&layout=compact"/>
+  <img width="400px" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Vitor-Tigre&theme=darcula&hide_border=true"/>
+</div>
+
 
 
 <h2 align="left">Social Media</h2>
