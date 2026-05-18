@@ -2,7 +2,7 @@
 
 <h2 align="left">About me</h2>
 
-<p align="left">Salesforce Developer at @elera-io<br>Analysis and Systems Development Student at @BandTec</p>
+<p align="left">Salesforce Developer at AI/R Eveymind<br>Analysis and Systems Development Bachelor at @BandTec</p>
 
 <div align="center">
   <img width="400px" height="200px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Tigre&theme=darcula&show_icons=true&hide_border=true&layout=compact"/>
